@@ -1,2 +1,3 @@
 # Animal-card
-This is the first project in Udacity, its called Animal Trading card
+this cpntain the Css and Html files 
+To open the file you need a browser
